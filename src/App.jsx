@@ -6,7 +6,7 @@ const initialUsers = [
   { username: 'Mk', password: 'rblack', role: 'Empleado', displayName: 'Mk', rank: 'Jefe del Taller' },
   { username: 'Kursten', password: 'karstenkursten', role: 'Empleado', displayName: 'Kursten', rank: 'Aprendiz' },
   { username: 'paikuan', password: 'vaquilla', role: 'Empleado', displayName: 'paikuan', rank: 'Mecanico Senior' },
-  { username: 'MarkSG06', password: 'mark_111', role: 'Empleado', displayName: 'MarkSG06', rank: 'Aprendiz' },
+  { username: 'MarkSG06', password: 'Mark111', role: 'Empleado', displayName: 'MarkSG06', rank: 'Aprendiz' },
   { username: 'Kraw0', password: 'pawa019', role: 'Empleado', displayName: 'Kraw0', rank: 'Aprendiz' },
 ];
 
